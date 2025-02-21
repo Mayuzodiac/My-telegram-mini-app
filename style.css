@@ -1,0 +1,9 @@
+body {
+    background: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.cta-button {
+    background-color: #e50914;
+    color: white;
+}
